@@ -1,1 +1,1 @@
-# Class--inheriance
+# Class-inheritance
